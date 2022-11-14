@@ -1,0 +1,108 @@
+.container-p {
+  margin-left: 200px;
+  width: 1000px;
+}
+.user-form-logo-p {
+  width: 500px;
+  margin-bottom: 25px;
+}
+.order-detail-p {
+  width: 1500px;
+  display: flex;
+  border: 1px solid var(--border);
+}
+.user-form-card1 {
+  margin-left: -100px;
+  width: 50%;
+  padding: 30px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  background: white;
+}
+.user-form-p {
+  width: 100%;
+  display: flex;
+}
+.form-group-left {
+  margin-right: 10px;
+  width: 50%;
+}
+.form-group-right {
+  margin-left: 10px;
+  width: 50%;
+}
+.user-form-p .form-group-p {
+  margin-bottom: 20px;
+}
+
+.img {
+  height: 50px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.form-group-img {
+  display: flex;
+}
+.form-group-img-chil {
+  margin-top: 10px;
+  height: 50px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.form-cart {
+  margin-left: 100px;
+}
+.form-group-sale-left {
+  width: 100%;
+}
+
+.form-button-p button {
+  margin-top: 10px;
+  margin-left: 20%;
+  width: 50%;
+  height: 45px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 45px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--white);
+  background: green;
+}
+.form-group-sale-right {
+  margin-left: 100px;
+  width: 50%;
+}
+/* img {
+  margin-top: 10px;
+  height: 50px;
+  margin-left: 10px;
+  vertical-align: middle;
+} */
+.form-group-title-p {
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+.form-button-1 button {
+  margin-top: 10px;
+  /* margin-left: 20%; */
+  width: 60%;
+  height: 45px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 45px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--white);
+  background: green;
+}
+.form-p {
+  color: white;
+  font-size: 16px;
+  margin-top: -10px;
+}

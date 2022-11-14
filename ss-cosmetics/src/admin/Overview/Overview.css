@@ -1,0 +1,22 @@
+.background-numberical {
+    width: 38px;
+    background-color: #FF6B00;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    padding: 8px;
+}
+
+.background-account {
+    background-color: #08B3FC;
+    text-align: center;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.background-point {
+    background-color: #F70202;
+    text-align: center;
+    border-radius: 20px;
+    padding: 8px;
+}
